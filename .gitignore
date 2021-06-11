@@ -1,0 +1,16 @@
+*~
+*.swp
+*.log
+
+/docs/
+
+# \ Elixir
+/*.lock
+/_build/
+erl_crash.dump
+/deps/
+/assets/node_modules/
+/priv/static/
+# / Elixir
+
+!.gitignore

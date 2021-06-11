@@ -1,0 +1,4 @@
+git make curl
+elixir
+sqlite3 gcc
+erlang-dev inotify-tools
